@@ -1,15 +1,15 @@
 # 网站标题
-title: Hexo主题-Quiet主题-Hexo扁平化主题安装
+title: LiberMeng
 # 网站标题后缀
-suffix: Quiet
+suffix: Blog
 # 作者名称
-author: Joey
+author: LiberMeng
 # 网站关键字
-keyword: hexo主题,hexo扁平化主题,Quiet主题
+keyword: life code work
 #false是否开启文章背景图显示(随机图片)
 is_article_img: true  
 # 网站描述
-web_description: 描述
+web_description: 说的很煞风景啊还是短发哈萨克地方哈就开始对海峰看见啊是的
 # 首页文章布局 默认 'card' 可选择 'block-card'
 home_layout: card
 # 导航名称
@@ -63,11 +63,11 @@ web_analytics:
   baidu: 4b5fe1472f22fadsfs  # （替换）百度统计的 Key，参见 https://tongji.baidu.com/sc-web/10000033910/home/site/getjs?siteId=13751376 代码获取中 hm.js? 后边的字符串
 # 评论 
 gitalk:
-  clientID: 02b3c # （需要替换）GitHub Application Client ID.
-  clientSecret: adfc7b4 #（需要替换）GitHub Application Client Secret.
-  repo: gimment #（需要替换）GitHub repository.
-  owner: duneng #（需要替换）GitHub repository 所有者，可以是个人或者组织。
-  admin: ['duneng'] #（需要替换）GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
+  clientID: Iv1.402148c8820bee21 # （需要替换）GitHub Application Client ID.
+  clientSecret: acfd8c17f6a09347fa215011280b4e691bdc2abe #（需要替换）GitHub Application Client Secret.
+  repo: https://github.com/ImLibermeng/ImLibermeng.github.io.git #（需要替换）GitHub repository.
+  owner: ImLibermeng #（需要替换）GitHub repository 所有者，可以是个人或者组织。
+  admin: ['ImLibermeng'] #（需要替换）GitHub repository 的所有者和合作者 (对这个 repository 有写权限的用户)。
 
 # 底部显示的图标（github 或者其他）
 bottomIcon: 
@@ -78,14 +78,14 @@ bottomIcon:
     #图标    
     iconLink: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imggithub.png',
     #跳转链接    
-    toUrl: 'https://github.com/79E/hexo-theme-quiet'
+    toUrl: 'https://github.com/ImLibermeng'
   }
 # 友情链接
 linksList:
   - {
     title: 'Quiet',
     intro: '收藏回忆与分享技术的地方',
-    link: 'https://github.com/79E/hexo-theme-quiet',
+    link: 'https://github.com/ImLibermeng',
     image: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg'
   }
 
